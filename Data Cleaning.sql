@@ -124,7 +124,7 @@ Select *
 From PortProject.dbo.Sheet1$
 
 
-ALTER TABLE PortProject.dbo.Sheet1$
-DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
+--ALTER TABLE PortProject.dbo.Sheet1$
+--DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
 
